@@ -21,9 +21,9 @@ You can install "pytest-ok" via `pip`_ from `PyPI`_::
 
 ## License
 
-Distributed under the terms of the `BSD-3`_ license, "pytest-ok" is free and open source software
+Distributed under the terms of the `BSD-3` license, "pytest-ok" is free and open source software
 
 
 ## Issues
 
-If you encounter any problems, please `file an issue`_ along with a detailed description.
+If you encounter any problems, please file an issue along with a detailed description.
