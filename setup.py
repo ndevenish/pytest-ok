@@ -22,6 +22,7 @@ setup(
     url="https://github.com/ndevenish/pytest-ok",
     description="The ultimate pytest output plugin",
     long_description=read("README.md"),
+    long_description_content_type="text/markdown",
     py_modules=["pytest_ok"],
     python_requires=">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*",
     install_requires=["pytest>=3.5.0"],
