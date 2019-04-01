@@ -14,7 +14,7 @@ The ultimate pytest output plugin
 
 ## Installation
 
-You can install "pytest-ok" via `pip`_ from `PyPI`_::
+You can install "pytest-ok" via `pip` from `PyPI`:
 
     $ pip install pytest-ok
 
