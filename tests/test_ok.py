@@ -3,12 +3,10 @@
 
 def test_oks(testdir):
     # create a temporary pytest test module
-    testdir.makepyfile(
-        """
+    testdir.makepyfile("""
         def test_sth():
             assert True
-    """
-    )
+    """)
 
     # run pytest with the following cmd args
     result = testdir.runpytest()
